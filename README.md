@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/feb-dain" target="_blank">
+      <a href="https://github.com/ksone02" target="_blank">
         에디(강상원)
       </a>
     </td>
